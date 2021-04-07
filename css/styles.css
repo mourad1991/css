@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(82, 77, 3);
+}
+
+header {
+  background-color: white;
+  margin-top: -20px;
+  margin-left: -10px;
+  margin-right: -10px;
+  position: fixed;
+  top: 0;
+  width: 101%;
+}
+
+.nav {
+  width: 150px;
+  height: 60px;
+}
+
+.logsig button {
+  float: right;
+  margin-top: -60px;
+  margin-right: 20px;
+}
+
+ul {
+  margin-top: -70px;
+}
+
+a li {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+  font-family: Fantasy;
+}
+a li:hover {
+  background-color: #f54402;
+}
